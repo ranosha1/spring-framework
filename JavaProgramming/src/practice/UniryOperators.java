@@ -11,10 +11,10 @@ public class UniryOperators {
         System.out.println(--x);//10
 
         int y=25;
-        System.out.println(y++);//25
-        System.out.println(y);//26
+//        System.out.println(y++);//25
+//        System.out.println(y);//26
         System.out.println(y--);//26
-        System.out.println(y);//25
+      //  System.out.println(y);//25
 
     }
 
