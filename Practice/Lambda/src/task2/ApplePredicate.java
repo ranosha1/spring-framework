@@ -1,4 +1,4 @@
-package java;
+package task2;
 
 public interface ApplePredicate {
 

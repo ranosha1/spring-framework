@@ -1,4 +1,4 @@
-package java;
+package task2;
 
 public class AppleHeavyPredicate implements ApplePredicate {
     @Override

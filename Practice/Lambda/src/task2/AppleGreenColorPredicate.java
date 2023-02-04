@@ -1,4 +1,4 @@
-package java;
+package task2;
 
 public class AppleGreenColorPredicate implements ApplePredicate {
     @Override
