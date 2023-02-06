@@ -7,6 +7,7 @@ import lombok.NoArgsConstructor;
 @Data
 @Builder
 
+
 public class Orange {
 
     private int weight;
