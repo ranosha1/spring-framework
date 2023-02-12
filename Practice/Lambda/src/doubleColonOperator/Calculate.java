@@ -1,6 +1,6 @@
 package doubleColonOperator;
 
-public interface Calculate {
+     public interface Calculate {
 
     void Calculate(int x, int y);
 }

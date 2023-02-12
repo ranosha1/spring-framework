@@ -10,6 +10,10 @@ public class CreatingStream {
         String [] course={"Java", "JS", "TS"};
         Stream<String> courseStream= Arrays.stream(course);
 
+        String [] list={"New", "Old", "Medium"};
+        Stream<String> list1=Arrays.stream(list);
+
+
         //creating  stream from collection
         List<String> courseList=Arrays.asList("Java", "JS", "TS");
         Stream<String> courseStream1=courseList.stream();
