@@ -1,6 +1,6 @@
 package cydeo.proxy;
 
-import com.cydeo.model.Comment;
+import com.cydeo.Comment;
 
 public interface CommentNotificationProxy {
 

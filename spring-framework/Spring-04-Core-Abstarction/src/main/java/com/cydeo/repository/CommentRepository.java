@@ -1,7 +1,6 @@
 package com.cydeo.repository;
 
-import com.cydeo.model.Comment;
-import org.springframework.stereotype.Component;
+import com.cydeo.Comment;
 
 
 public interface CommentRepository {

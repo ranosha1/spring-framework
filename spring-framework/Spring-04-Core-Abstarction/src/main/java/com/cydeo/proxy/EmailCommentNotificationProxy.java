@@ -1,8 +1,7 @@
 package com.cydeo.proxy;
 
-import com.cydeo.model.Comment;
+import com.cydeo.Comment;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component
